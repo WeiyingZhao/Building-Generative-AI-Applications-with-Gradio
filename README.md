@@ -1,5 +1,4 @@
 # Building-Generative-AI-Applications-with-Gradio
-Building Generative AI Applications with Gradio
 
 What you’ll do with these files:
 
